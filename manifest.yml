@@ -3,6 +3,6 @@
   memory: 256M
   disk_quota: 512M
   path: target/jazz-sample-1.0.0-SNAPSHOT.war
-  buildpack: https://github.com/cloudfoundry/java-buildpack
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
   env:
     env_type: production
