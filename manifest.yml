@@ -1,5 +1,5 @@
 ---
-- name: myMavenapp
+  name: myMavenapp
   memory: 256M
   disk_quota: 512M
   path: jazz-sample-1.0.0-SNAPSHOT.war
