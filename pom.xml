@@ -20,7 +20,7 @@
     <groupId>com.jeffmaury.alm</groupId>
     <artifactId>jazz-sample</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <name>JAZZ sample project</name>
     <description>A sample Maven app for JAZZ</description>
 
